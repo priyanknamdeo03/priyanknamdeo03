@@ -25,7 +25,7 @@
 
 <h2 align="center">Connect Me In</h2>
 
-<a href="https://www.codechef.com/users/priyank03" target="black" alt=https://www.codechef.com/users/priyank03> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' height="30" width="40" />|| </a><a href="https://www.linkedin.com/in/priyank-namdeo-a8637b1a4/" target="black" alt=https://www.linkedin.com/in/priyank-namdeo-a8637b1a4/> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" />
+<!-- <a href="https://www.codechef.com/users/priyank03" target="black" alt=https://www.codechef.com/users/priyank03> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' height="30" width="40" />|| </a><a href="https://www.linkedin.com/in/priyank-namdeo-a8637b1a4/" target="black" alt=https://www.linkedin.com/in/priyank-namdeo-a8637b1a4/> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height="30" width="40" /> -->
 </a>|| <a href="https://www.hackerrank.com/priyanknamdeo03" target="black" alt=https://www.hackerrank.com/priyanknamdeo03> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' height="30" width="40" />
 </a>|| <a href="https://www.youtube.com/channel/UCKAvcvN7npAE8CtVSBfUjog" target="black" alt=https://www.youtube.com/channel/UCKAvcvN7npAE8CtVSBfUjog> <img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' height="30" width="40" /> </a>
 
