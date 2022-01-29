@@ -18,6 +18,7 @@
 
 <h2>🗡️ Look At My Projects <h2>
   <h3>https://github.com/priyanknamdeo03/Driver_Drowsiness_Detection</h3>
+  <h3>https://github.com/priyanknamdeo03/Facial-Recognition-Attendence-System</h3>
   <h3>https://github.com/priyanknamdeo03/Incentivized_Recycle_Tech</h3>
   <h3>https://github.com/priyanknamdeo03/Baker-s-Table</h3>
   <h3>https://github.com/priyanknamdeo03/ShapeAI_Priyank_Namdeo_2</h3>
