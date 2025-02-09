@@ -1,6 +1,6 @@
 <h1 align="center">Hello There 🤙,I'm Priyank Namdeo </h1>
 
-<h3 align="center"> Enthusiastic Learner 📖 | FrontEnd Web Developer 💻 |Python Enthusiast </h3>
+<h3 align="center"> Full Stack Developer 📖 | BackEnd Web Developer 💻 |Python Developer </h3>
 
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
@@ -8,7 +8,7 @@
 
 <p align="center"> I am a keen learner and observer who values things and is always ready to learn new things. </p>
 
-<h3> Skills: HTML, CSS, JS, React, C++, C, Python</h3>
+<h3> Skills: Java, Spring MVC, SpringBoot, Rest API's,Python, SQL, PostgreSQL, Linux, Data Structures And Algorithms, Problem Solving,Javascript, HTML, CSS, React, C++, C, </h3>
 
 <h3> College: Gyan Ganga Institute of Technology and Sciences </h3> <br />
 
@@ -34,4 +34,4 @@
 
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanknamdeo03&" alt="priyanknamdeo03" > </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanknamdeo03&show_icons=true&locale=en&layout=compact" alt="priyanknamdeo03" > </p>
+<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanknamdeo03&show_icons=true&locale=en&layout=compact" alt="priyanknamdeo03" > </p>/> 
